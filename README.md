@@ -1,6 +1,6 @@
 # **Face Recognition - using FaceNet**
 
-Face recognition is an interesting task for `computer vision apps` because it gives you informations about the `face` of a person.
+Face recognition is an interesting task for `computer vision apps` because it gives the `face` of a person that you want to analyse. Also, a system like this can be combined with [FaceX](https://github.com/pauldamsa/FaceX) system in order to get more informations about the face of a person.
 
 The **purpose** of this repository is to show you the performance of **FaceNet** on **LFW dataset**.
 In order to see the whole code you have to check the **LFW & FaceNet - performance analysis.ipynb** notebook. In it you have all you need to know for getting **insights** about the performance of LFW dataset on Face Recognition task.
@@ -25,7 +25,7 @@ There are 4 steps for face recognition task to realise:
 <img src = "https://github.com/pauldamsa/Face-Recognition/blob/master/face-recognition-approach.png" height = "300" width="500">
 
 In the below table we can see the performance of FaceNet with first image of each person as reference image. You can see in the notebook how the performance on different reference images. 
-<img src = "https://github.com/pauldamsa/Face-Recognition/blob/master/10-persons%20analysis.png" height = "300" width = "500">
+<img src = "https://github.com/pauldamsa/Face-Recognition/blob/master/10-persons%20analysis.png" height = "300" width = "1000">
 
 ## Requirements
 * TensorFlow - version 2.2.0
