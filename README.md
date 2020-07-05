@@ -24,7 +24,8 @@ There are 4 steps for face recognition task to realise:
 4. Face verification (distance)
 <img src = "https://github.com/pauldamsa/Face-Recognition/blob/master/face-recognition-approach.png" height = "300" width="500">
 
-In the below table we can see the performance of FaceNet with first image of each person as reference image. You can see in the notebook how the performance on different reference images. 
+In the below table we can see the performance of FaceNet with first image of each person as reference image. You can see in the notebook how the performance on different reference images is. Also, I want to mention that the face alignment step wasn't made in this analysis.
+
 <img src = "https://github.com/pauldamsa/Face-Recognition/blob/master/10-persons%20analysis.png" height = "300" width = "1000">
 
 ## Requirements
@@ -48,6 +49,7 @@ If you choose to run on your laptop or PC, I encourage you to install all necess
 
 ## To-do list:
 * Improve the performance of the model when the face is occluded or any other situations.
+* Add face alignment step in order to get more accurate results.
 
 ## Contact
 
