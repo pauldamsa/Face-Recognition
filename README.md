@@ -22,6 +22,10 @@ There are 4 steps for face recognition task to realise:
 2. Face alignment
 3. Face representation (FaceNet)
 4. Face verification (distance)
+<img src = "https://github.com/pauldamsa/Face-Recognition/blob/master/face-recognition-approach.png" height = "300" width="500">
+
+In the below table we can see the performance of FaceNet with first image of each person as reference image. You can see in the notebook how the performance on different reference images. 
+<img src = "https://github.com/pauldamsa/Face-Recognition/blob/master/10-persons%20analysis.png" height = "300" width = "500">
 
 ## Requirements
 * TensorFlow - version 2.2.0
